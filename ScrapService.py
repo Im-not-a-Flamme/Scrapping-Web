@@ -4,8 +4,8 @@ import datetime
 import time
 import pyfiglet
 
-DIRLOG = "/home/kiraz/MyTools/HPy/LOGS"
-DIRMESSAGE = "/home/kiraz/MyTools/HPy/message.txt"
+DIRLOG = ""
+DIRMESSAGE = ""
 BANNER = pyfiglet.figlet_format("SCRAPPING")
 
 print(BANNER)
